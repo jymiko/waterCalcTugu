@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UIGalianSumur</string>
+    <string name="slide_1_title">Sistem Pengolahan Limbah</string>
+    <string name="slide_1_desc">Aplikasi yang membantu memudahkan analisis dan pemanfaatan limbah air</string>
+    <string name="slide_2_title">Easy to use </string>
+    <string name="slide_2_desc">Aplikasi yang mudah digunakan untuk segala kalangan </string>
+    <string name="slide_3_title">Promo</string>
+    <string name="slide_3_desc">Terdapat banyak promo menarik mengenai aplikasi </string>
+    <string name="next">next</string>
+    <string name="skip">skip</string>
+    <string name="start">Got It</string>
+    <string name="cara_perbaikan">cara perbaikan</string>
+</resources>
